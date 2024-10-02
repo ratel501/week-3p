@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9fd65d6-abe8-4c10-8c97-5e3109497139" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-3p.iml" afterDir="false" />
+    <list default="true" id="f9fd65d6-abe8-4c10-8c97-5e3109497139" name="변경" comment="202230306">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2mYOHLV2zRKAWkePzHeLayxfxAy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -57,27 +44,30 @@
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.InputPractice.executor": "Run",
     "애플리케이션.LeapYearCheck.executor": "Run",
+    "애플리케이션.Main.executor": "Run",
     "애플리케이션.Question1.executor": "Run",
+    "애플리케이션.Question10.executor": "Run",
     "애플리케이션.Question2.executor": "Run",
     "애플리케이션.Question3.executor": "Run",
     "애플리케이션.Question4.executor": "Run",
     "애플리케이션.Question5.executor": "Run",
     "애플리케이션.Question6.executor": "Run",
     "애플리케이션.Question7.executor": "Run",
+    "애플리케이션.Question8.executor": "Run",
     "애플리케이션.SeasonCheck.executor": "Run",
     "애플리케이션.SwitchExample.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Question6">
-    <configuration name="LeapYearCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeapYearCheck" />
+  <component name="RunManager" selected="애플리케이션.Question8">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="week-3p" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question5" />
+    <configuration name="Question10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question10" />
       <module name="week-3p" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeasonCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeasonCheck" />
+    <configuration name="Question8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question8" />
       <module name="week-3p" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Question8" />
+        <item itemvalue="애플리케이션.Question10" />
+        <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.Question6" />
         <item itemvalue="애플리케이션.Question7" />
-        <item itemvalue="애플리케이션.SeasonCheck" />
-        <item itemvalue="애플리케이션.LeapYearCheck" />
-        <item itemvalue="애플리케이션.Question5" />
       </list>
     </recent_temporary>
   </component>
@@ -131,11 +121,48 @@
       <option name="presentableId" value="Default" />
       <updated>1727249955406</updated>
       <workItem from="1727249956330" duration="4174000" />
+      <workItem from="1727829460164" duration="3454000" />
+      <workItem from="1727843636087" duration="341000" />
+      <workItem from="1727843987553" duration="1846000" />
     </task>
+    <task id="LOCAL-00001" summary="202230306">
+      <option name="closed" value="true" />
+      <created>1727829755377</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727829755377</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1899663d-0264-4384-9f3c-6377e8afba62" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1899663d-0264-4384-9f3c-6377e8afba62">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="202230306" />
+    <option name="LAST_COMMIT_MESSAGE" value="202230306" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
